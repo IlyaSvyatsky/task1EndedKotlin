@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">CryptoPare</string>
+<string name="coin_price">$ %.2f</string>
+<string name="text_price">$ %.2f</string>
+<string name="text_average_price">%.2f</string>
+<string name="text_available_supply">%.2f</string>
+<string name="text_max_supply">%.2f</string>
+<string name="text_market_cap">%.2f</string>
+<string name="text_volume">%.2f</string>
+<string name="coin_percent_change">%.2f%%</string>
+<string name="text_percent_change">%.2f%%</string>
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
